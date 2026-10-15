@@ -2,8 +2,6 @@
 
 **Project Astraeus** is an unmanned aerial system (UAS) engineered for long-range medical supply transport in remote mountainous regions, developed in collaboration with the **Municipality of Voio**.
 
-As **Project Manager & Lead Aerodynamics Designer**, I directed the project timeline, coordinated with municipal authorities, and led the mechanical/aerodynamic design (Autodesk Fusion 360) and structural prototyping across two engineering phases:
-
 ---
 
 ## Repository Structure & Engineering Phases
